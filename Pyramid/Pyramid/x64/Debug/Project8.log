@@ -1,0 +1,22 @@
+﻿  EBO.cpp
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pyramid\EBO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'EBO.cpp')
+  
+  Main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pyramid\Main.cpp(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  stb.cpp
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pyramid\stb.cpp(2,9): error C1083: Cannot open include file: 'stb/stb_image.h': No such file or directory
+  Texture.cpp
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pyramid\Texture.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'Texture.cpp')
+  
+  VAO.cpp
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pyramid\VAO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'VAO.cpp')
+  
+  VBO.cpp
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pyramid\VBO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'VBO.cpp')
+  
+  Generating Code...

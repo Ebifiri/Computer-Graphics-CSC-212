@@ -1,0 +1,25 @@
+﻿  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+Main.obj : error LNK2019: unresolved external symbol SOIL_load_image referenced in function main
+Main.obj : error LNK2019: unresolved external symbol SOIL_free_image_data referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewBindBuffer referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewBufferData referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewGenBuffers referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewAttachShader referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewCompileShader referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewCreateProgram referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewCreateShader referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewDeleteShader referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewEnableVertexAttribArray referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramInfoLog referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramiv referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderInfoLog referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderiv referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewLinkProgram referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewShaderSource referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewVertexAttribPointer referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewGenerateMipmap referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewBindVertexArray referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glewGenVertexArrays referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glewExperimental referenced in function main
+C:\Users\Ike\Desktop\Project8\x64\Debug\Project8.exe : fatal error LNK1120: 23 unresolved externals
