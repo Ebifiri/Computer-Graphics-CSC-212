@@ -1,0 +1,4 @@
+﻿  sdl.cpp
+C:\Users\Ebifiri\Desktop\SDL_BaseProject\sdl.cpp(14,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ebifiri\Desktop\SDL_BaseProject\sdl.cpp(122,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SDL_BaseProject.vcxproj -> C:\Users\Ebifiri\Desktop\SDL_BaseProject\x64\Debug\Image on top.exe

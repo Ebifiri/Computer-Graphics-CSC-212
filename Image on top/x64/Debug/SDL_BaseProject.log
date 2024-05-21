@@ -1,0 +1,11 @@
+﻿  sdl.cpp
+C:\Users\Emmanuel Odey\Downloads\SDL_BaseProject\SDL_BaseProject\sdl.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Emmanuel Odey\Downloads\SDL_BaseProject\SDL_BaseProject\sdl.cpp(96,46): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\Emmanuel Odey\Downloads\SDL_BaseProject\SDL_BaseProject\sdl.cpp(96,46): warning C4129: 'l': unrecognized character escape sequence
+C:\Users\Emmanuel Odey\Downloads\SDL_BaseProject\SDL_BaseProject\sdl.cpp(100,48): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\Emmanuel Odey\Downloads\SDL_BaseProject\SDL_BaseProject\sdl.cpp(101,46): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\Emmanuel Odey\Downloads\SDL_BaseProject\SDL_BaseProject\sdl.cpp(101,46): warning C4129: 'w': unrecognized character escape sequence
+sdl.obj : error LNK2019: unresolved external symbol IMG_Init referenced in function "bool __cdecl initSDL(void)" (?initSDL@@YA_NXZ)
+sdl.obj : error LNK2019: unresolved external symbol IMG_Quit referenced in function "void __cdecl closeSDL(void)" (?closeSDL@@YAXXZ)
+sdl.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "struct SDL_Texture * __cdecl loadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadTexture@@YAPEAUSDL_Texture@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+C:\Users\Emmanuel Odey\Downloads\SDL_BaseProject\SDL_BaseProject\x64\Debug\SDL_BaseProject.exe : fatal error LNK1120: 3 unresolved externals
