@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pulsating Pyramid\main.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pulsating Pyramid\main.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pulsating Pyramid\main.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pulsating Pyramid\main.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SDL Template.vcxproj -> C:\Users\Ebifiri\Documents\PAU 200lvl\comp graphics\Computer-Graphics-CSC-212\Pulsating Pyramid\x64\Debug\Pulsating Pyramid.exe
